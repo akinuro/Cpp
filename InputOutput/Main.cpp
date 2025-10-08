@@ -6,7 +6,7 @@ int main()
 {
 	std::string name;
 	int age;
-
+	//124
 	std::cout << "What is you name?" << std::endl;
 	std::cin >> name;
 
